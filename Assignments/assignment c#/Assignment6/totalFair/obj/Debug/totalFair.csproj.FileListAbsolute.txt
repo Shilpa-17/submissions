@@ -1,0 +1,10 @@
+D:\training\assignment\Assignment6\totalFair\bin\Debug\totalFair.exe.config
+D:\training\assignment\Assignment6\totalFair\bin\Debug\totalFair.exe
+D:\training\assignment\Assignment6\totalFair\bin\Debug\totalFair.pdb
+D:\training\assignment\Assignment6\totalFair\bin\Debug\Assignment6.dll
+D:\training\assignment\Assignment6\totalFair\bin\Debug\Assignment6.pdb
+D:\training\assignment\Assignment6\totalFair\obj\Debug\totalFair.csproj.AssemblyReference.cache
+D:\training\assignment\Assignment6\totalFair\obj\Debug\totalFair.csproj.CoreCompileInputs.cache
+D:\training\assignment\Assignment6\totalFair\obj\Debug\totalFair.csproj.CopyComplete
+D:\training\assignment\Assignment6\totalFair\obj\Debug\totalFair.exe
+D:\training\assignment\Assignment6\totalFair\obj\Debug\totalFair.pdb

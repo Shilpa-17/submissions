@@ -1,0 +1,6 @@
+D:\training\assignment\Assignment6\Assignment6\bin\Debug\Assignment6.dll
+D:\training\assignment\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+D:\training\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+D:\training\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\training\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.dll
+D:\training\assignment\Assignment6\Assignment6\obj\Debug\Assignment6.pdb

@@ -1,0 +1,6 @@
+D:\training\assignment\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+D:\training\assignment\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+D:\training\assignment\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+D:\training\assignment\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+D:\training\assignment\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+D:\training\assignment\Assignment8\Assignment8\obj\Debug\Assignment8.pdb

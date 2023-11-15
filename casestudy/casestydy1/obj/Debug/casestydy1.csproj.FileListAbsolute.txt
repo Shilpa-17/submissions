@@ -1,0 +1,14 @@
+D:\training\casestudy\casestydy1\casestydy1\obj\Debug\casestydy1.csproj.AssemblyReference.cache
+D:\training\casestudy\casestydy1\casestydy1\obj\Debug\casestydy1.csproj.CoreCompileInputs.cache
+D:\training\casestudy\casestydy1\casestydy1\bin\Debug\casestydy1.exe.config
+D:\training\casestudy\casestydy1\casestydy1\bin\Debug\casestydy1.exe
+D:\training\casestudy\casestydy1\casestydy1\bin\Debug\casestydy1.pdb
+D:\training\casestudy\casestydy1\casestydy1\obj\Debug\casestydy1.exe
+D:\training\casestudy\casestydy1\casestydy1\obj\Debug\casestydy1.pdb
+D:\training\casestudy\casestudy\casestydy1\bin\Debug\casestydy1.exe.config
+D:\training\casestudy\casestudy\casestydy1\bin\Debug\casestydy1.exe
+D:\training\casestudy\casestudy\casestydy1\bin\Debug\casestydy1.pdb
+D:\training\casestudy\casestudy\casestydy1\obj\Debug\casestydy1.csproj.AssemblyReference.cache
+D:\training\casestudy\casestudy\casestydy1\obj\Debug\casestydy1.csproj.CoreCompileInputs.cache
+D:\training\casestudy\casestudy\casestydy1\obj\Debug\casestydy1.exe
+D:\training\casestudy\casestudy\casestydy1\obj\Debug\casestydy1.pdb

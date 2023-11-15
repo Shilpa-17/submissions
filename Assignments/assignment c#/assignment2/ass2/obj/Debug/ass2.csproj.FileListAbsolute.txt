@@ -1,0 +1,7 @@
+D:\training\assignment\assignment1\ass2\ass2\ass2\bin\Debug\ass2.exe.config
+D:\training\assignment\assignment1\ass2\ass2\ass2\bin\Debug\ass2.exe
+D:\training\assignment\assignment1\ass2\ass2\ass2\bin\Debug\ass2.pdb
+D:\training\assignment\assignment1\ass2\ass2\ass2\obj\Debug\ass2.csproj.CoreCompileInputs.cache
+D:\training\assignment\assignment1\ass2\ass2\ass2\obj\Debug\ass2.exe
+D:\training\assignment\assignment1\ass2\ass2\ass2\obj\Debug\ass2.pdb
+D:\training\assignment\assignment1\ass2\ass2\ass2\obj\Debug\ass2.csproj.AssemblyReference.cache

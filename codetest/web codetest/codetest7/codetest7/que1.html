@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Simple Calculator</h1>
+    <p>Enter two numbers to calculate their multiplication and division:</p>
+    <!-- Input fields for the two numbers -->
+    <label for="number1">Number 1:</label>
+    <input type="number" id="number1" placeholder="please enter 1st number"><br>
+    <label for="number2">Number 2:</label>
+    <input type="number" id="number2" placeholder="please enter 2nd number"><br>
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+    <p id="result"></p>
+    <script>
+        function multiply() {
+            // Get the values of the input fields
+            let number1 = parseFloat(document.getElementById("number1").value);
+            let number2 = parseFloat(document.getElementById("number2").value);
+
+            if (isNaN(number1) || isNaN(number2)) {
+                document.getElementById("result").textContent = "Please enter valid numbers.";
+            } else {
+                let multiplicationResult = number1 * number2;
+                document.getElementById("result").textContent = `Multiplication result: ${multiplicationResult}`;
+            }
+        }
+
+        function divide() {
+            // Get the values of the input fields
+            let num1 = parseFloat(document.getElementById("num1").value);
+            let num2 = parseFloat(document.getElementById("num2").value);
+
+            if (isNaN(num1) || isNaN(num2)) {
+                document.getElementById("result").textContent = "Please enter valid numbers.";
+            } else {
+                if (num2 !== 0) {
+                    let divisionResult = num1 / num2;
+                    document.getElementById("result").textContent = `Division result: ${divisionResult}`;
+                } else {
+                    document.getElementById("result").textContent = "Division by zero is not allowed.";
+                }
+            }
+        }
+    </script>
+</body>
+</html>

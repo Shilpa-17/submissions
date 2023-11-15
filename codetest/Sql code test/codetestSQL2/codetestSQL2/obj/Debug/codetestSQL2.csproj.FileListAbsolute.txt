@@ -1,0 +1,7 @@
+D:\training\codetest\codetestSQL2\codetestSQL2\obj\Debug\codetestSQL2.csproj.AssemblyReference.cache
+D:\training\codetest\codetestSQL2\codetestSQL2\obj\Debug\codetestSQL2.csproj.CoreCompileInputs.cache
+D:\training\codetest\codetestSQL2\codetestSQL2\bin\Debug\codetestSQL2.exe.config
+D:\training\codetest\codetestSQL2\codetestSQL2\bin\Debug\codetestSQL2.exe
+D:\training\codetest\codetestSQL2\codetestSQL2\bin\Debug\codetestSQL2.pdb
+D:\training\codetest\codetestSQL2\codetestSQL2\obj\Debug\codetestSQL2.exe
+D:\training\codetest\codetestSQL2\codetestSQL2\obj\Debug\codetestSQL2.pdb

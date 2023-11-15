@@ -1,0 +1,7 @@
+D:\training\codetest\codetest1\codetest1\bin\Debug\codetest1.exe.config
+D:\training\codetest\codetest1\codetest1\bin\Debug\codetest1.exe
+D:\training\codetest\codetest1\codetest1\bin\Debug\codetest1.pdb
+D:\training\codetest\codetest1\codetest1\obj\Debug\codetest1.csproj.AssemblyReference.cache
+D:\training\codetest\codetest1\codetest1\obj\Debug\codetest1.csproj.CoreCompileInputs.cache
+D:\training\codetest\codetest1\codetest1\obj\Debug\codetest1.exe
+D:\training\codetest\codetest1\codetest1\obj\Debug\codetest1.pdb

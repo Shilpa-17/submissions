@@ -1,0 +1,7 @@
+D:\training\codetest\sql2\sql2\bin\Debug\sql2.exe.config
+D:\training\codetest\sql2\sql2\bin\Debug\sql2.exe
+D:\training\codetest\sql2\sql2\bin\Debug\sql2.pdb
+D:\training\codetest\sql2\sql2\obj\Debug\sql2.csproj.AssemblyReference.cache
+D:\training\codetest\sql2\sql2\obj\Debug\sql2.csproj.CoreCompileInputs.cache
+D:\training\codetest\sql2\sql2\obj\Debug\sql2.exe
+D:\training\codetest\sql2\sql2\obj\Debug\sql2.pdb
